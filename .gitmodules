@@ -1,0 +1,3 @@
+[submodule "libgetopt_portable"]
+	path = libgetopt_portable
+	url = https://github.com/ro-i/libgetopt_portable.git
